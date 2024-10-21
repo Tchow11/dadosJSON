@@ -18,9 +18,15 @@
         "imagem": "img/teste.jpg"
     }
     {
-        "nome":"",
-        "tamanho": 42,
-        "preço": 139.99,
+        "nome":"Boné do Pateta",
+        "tamanho": M,
+        "preço": 79.99,
+        "imagem": "img/teste.jpg"
+    }
+    {
+        "nome":"Casimeta esportiva",
+        "tamanho": G,
+        "preço": 199.99,
         "imagem": "img/teste.jpg"
     }
 ]
