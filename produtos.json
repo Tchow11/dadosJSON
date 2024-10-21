@@ -1,0 +1,26 @@
+[
+    {
+        "nome":"Calça Jeans",
+        "tamanho": 42,
+        "preço": 139.99,
+        "imagem": "img/teste.jpg"
+    }
+    {
+        "nome":"Cueca do Bob esponja",
+        "tamanho": M,
+        "preço": 99.99,
+        "imagem": "img/teste.jpg"
+    }
+    {
+        "nome":"Chuteira adidas",
+        "tamanho": 42,
+        "preço": 799.99,
+        "imagem": "img/teste.jpg"
+    }
+    {
+        "nome":"",
+        "tamanho": 42,
+        "preço": 139.99,
+        "imagem": "img/teste.jpg"
+    }
+]
